@@ -1,11 +1,11 @@
 JavaScript ES6 | Learning MERN Stack | Guess the Number (1 to 10)?
 
-Deveoped by:
+Developed by:
 Abhishek kumar\
 https://www.linkedin.com/in/abhishek-kumar-bb094427a/
 
 
-Deveopment TimeStamp\
+Development TimeStamp\
 11 July 2023
 
 User Interface Design:\
